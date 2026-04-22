@@ -2,6 +2,6 @@
 # My data science journey starts today
 # Goal: CU Economics → NUS Singapore
 
-print("Hello, I am Maria from Chittagong")
+print("Hello, I am Snikdha Barua Ritu from Chittagong")
 print("HSC 2027 Batch")
 print("Today I opened my GitHub khata")
