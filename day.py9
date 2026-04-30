@@ -1,7 +1,0 @@
-# Day 6: Print & Variable Practice
-price = 15 
-message = "I like flower gardens."
-
-print( price * 2 )
-print(message)
-
